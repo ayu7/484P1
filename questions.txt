@@ -1,0 +1,3 @@
+- person may be tagged in only one photo
+- "participant is a" relationship
+- no weak entities? 
